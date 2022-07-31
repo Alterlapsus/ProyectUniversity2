@@ -26,7 +26,7 @@ Tecnologías utilizadas:
 Descargar de archivos: 
 
 - git 
-- git clone https://github.com/Alterlapsus/DogFile.git
+- git clone https://github.com/Alterlapsus/ProyectUniversity.git
 
 ---
 
