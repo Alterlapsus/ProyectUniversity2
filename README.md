@@ -26,7 +26,7 @@ Tecnologías utilizadas:
 Descargar de archivos: 
 
 - git 
-- git clone https://github.com/Alterlapsus/ProyectUniversity.git
+- git clone https://github.com/Alterlapsus/ProyectUniversity2.git
 
 ---
 
